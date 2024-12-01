@@ -2,8 +2,6 @@
 // Author: Vir
 //
 
-#include "liblab8part2.h"
-#include "lab8part2.h"
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
